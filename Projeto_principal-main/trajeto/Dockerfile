@@ -1,5 +1,5 @@
 # Usar uma imagem base com Java
-FROM openjdk:17-jdk-alpine
+FROM openjdk:17-jdk-alpine f
 
 cdvevev
 
